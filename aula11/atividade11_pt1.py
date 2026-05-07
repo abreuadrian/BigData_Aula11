@@ -1,7 +1,6 @@
 import pandas as pd
 from helper.utilities import error_msg, time_clear, clean
 
-
 clean()
 
 list_filmes = []
