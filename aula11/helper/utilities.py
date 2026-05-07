@@ -8,3 +8,6 @@ def time_clear (delay):
 def error_msg(delay, txt=''):
     time_clear(delay)
     print(txt)
+
+def clean():
+    os.system('cls')
